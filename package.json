@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start:server": "node index.js",
+    "start:client": "npx http-server .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
